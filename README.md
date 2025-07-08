@@ -40,9 +40,9 @@ A web-based Event Management Portal built using Java Servlets, JSP, JDBC, and My
 ### Steps
 
 1. Clone the repository
-   ```bash
+   
    git clone https://github.com/yourusername/event_management_portal.git
-  ```
+
 
 2. Import project into NetBeans
    
@@ -56,8 +56,8 @@ A web-based Event Management Portal built using Java Servlets, JSP, JDBC, and My
 
 4. Configure Database Connection
 
-      Open DBConnection.java
-      Update MySQL username, password, and database URL
+     Open DBConnection.java
+     Update MySQL username, password, and database URL
 
 5. Deploy to Apache Tomcat
 
