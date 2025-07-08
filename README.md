@@ -45,8 +45,8 @@ A web-based Event Management Portal built using Java Servlets, JSP, JDBC, and My
   ```
 2. Import project into NetBeans
    ```bash
-   Open NetBeans
-   File → Open Project → Select the unzipped folder
+     Open NetBeans
+     File → Open Project → Select the unzipped folder
   ```
 3. Set up the MySQL Database
    ```bash
@@ -55,8 +55,8 @@ A web-based Event Management Portal built using Java Servlets, JSP, JDBC, and My
   ```
 4. Configure Database Connection
    ```bash
-   Open DBConnection.java
-   Update MySQL username, password, and database URL
+      Open DBConnection.java
+      Update MySQL username, password, and database URL
   ```
 5. Deploy to Apache Tomcat
    ```bash
