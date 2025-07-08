@@ -43,16 +43,17 @@ A web-based Event Management Portal built using Java Servlets, JSP, JDBC, and My
    ```bash
    git clone https://github.com/yourusername/event_management_portal.git
   ```
+
 2. Import project into NetBeans
    
      Open NetBeans
      File → Open Project → Select the unzipped folder
   
 3. Set up the MySQL Database
-   ```bash
+
    Create a database named event_portal
    Run the provided SQL script (if any) to generate tables
-  ```
+
 4. Configure Database Connection
 
       Open DBConnection.java
